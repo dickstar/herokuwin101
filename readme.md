@@ -1,6 +1,6 @@
-¦bWindows¦w¸ËHEROKU»Ý­nª`·N¨ìªº¦a¤è
+åœ¨Windowså®‰è£HEROKUéœ€è¦æ³¨æ„åˆ°çš„åœ°æ–¹
 
-§ï¦w¸Ë·sªºpg
+æ”¹å®‰è£æ–°çš„pg
 gem install pg --pre
 
 gem 'pg', '~> 0.18'
